@@ -1,0 +1,4 @@
+aiogram
+aiosqlite
+curl_cffi
+beautifulsoup4
